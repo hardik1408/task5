@@ -4,7 +4,8 @@ The database can be downloaded from
 ```
 https://www.kaggle.com/competitions/cifar-10/data?select=train.7z
 ```
-1. Installation and Imports:
+
+1.Installation and Imports:
 
 The code begins by installing the py7zr package using !pip install py7zr.
 Then, necessary packages are imported, including numpy, pandas, and other TensorFlow and Keras modules.
